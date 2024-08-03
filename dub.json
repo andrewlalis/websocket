@@ -1,0 +1,14 @@
+{
+	"authors": [
+		"Andrew Lalis"
+	],
+	"copyright": "Copyright © 2024, Andrew Lalis",
+	"dependencies": {
+		"handy-httpd": "~>8.4.1",
+		"slf4d": "~>3.0.1",
+		"streams": "~>3.5.0"
+	},
+	"description": "Library for client and server HTTP websocket functionality.",
+	"license": "MIT",
+	"name": "websocket"
+}

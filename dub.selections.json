@@ -1,0 +1,10 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"handy-httpd": "8.4.1",
+		"httparsed": "1.2.1",
+		"path-matcher": "1.2.0",
+		"slf4d": "3.0.1",
+		"streams": "3.5.0"
+	}
+}
